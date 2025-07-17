@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Helloooooo
+=======
+Hello all
+How are you
+This is demo1 text file
+
+>>>>>>> demo
